@@ -30,5 +30,3 @@
 <a href="https://kotlinlang.org" target="_blank"> <img src="pics/kotlin_icon.png" alt="Kotlin" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="pics/cplusplus_icon.png" alt="C++" width="45" height="50"/> </a> 
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acash512&show_icons=true&locale=en&theme=dark" alt="acash512" /></p>
